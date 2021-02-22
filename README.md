@@ -1,4 +1,5 @@
-# WeatherScrap
+# WeatherScraping
+
 A web scraping student project in Python.
 
 The program is importing selected weather data from few weather pages and save it in JSON and CSV files.
